@@ -1,0 +1,17 @@
+.page-freshness-container {
+  text-align: right;
+}
+
+.page-freshness-top {
+  float: right;
+}
+
+.page-freshness-rotten {
+  background-color: #ffe79a;
+  color: #533f03;
+  padding: 16px;
+}
+
+.fa-warning {
+  margin-right: 8px;
+}

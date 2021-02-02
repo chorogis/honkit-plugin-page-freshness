@@ -1,0 +1,23 @@
+{
+  "name": "honkit-plugin-page-freshness",
+  "version": "0.1.0",
+  "description": "Automatically adding author and timestamp and page freshness.",
+  "main": "index.js",
+  "engines": {
+    "honkit": ">=3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chorogis/honkit-plugin-page-freshness.git"
+  },
+  "author": "chorogis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chorogis/honkit-plugin-page-freshness/issues"
+  },
+  "homepage": "https://github.com/chorogis/honkit-plugin-page-freshness#readme",
+  "dependencies": {
+    "execa": "^1.0.0",
+    "moment": "^2.29.1"
+  }
+}
